@@ -7,7 +7,7 @@ async function init(){
             name:'Ayush',
             batch:'2020',
             branch:'ECE',
-            Degree:'Btech'
+            degree:'Btech'
         }
     )
 
